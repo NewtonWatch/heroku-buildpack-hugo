@@ -1,4 +1,4 @@
-Heroku buildpack: Hugo
+# Heroku Buildpack | Hugo
 ===
 
 This is a [Heroku buildpack](https://devcenter.heroku.com/articles/buildpacks)
